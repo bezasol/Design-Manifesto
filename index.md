@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+ 
+ 
+## About me
 
-You can use the [editor on GitHub](https://github.com/bezasol/Design-Manifesto/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Bezawit, but most people call me Beza. I am a senior who is a Computer Science & Economics double major studying at Clark University. This website contains an oveview of the diffrent designs & work I did in the past seven weeks for my last CS course called Human Computer Interaction, which I took at Worcester Polytech Institution. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Introduction
 
-### Markdown
+"Beauty is in the eye of the beholder". This is one of my favorite qoutes, in which I feel best depicts my views about design.Literal meaning - the perception of beauty is subjective. I stongly belive that design is a visual representation & product of ones preception of what they believe to be right. For the longest time I have belived that design is a choice that people make based on a bias they have. The Human Computer Interaction  course was a great way to help me inverstigate to what extent the bias of designers can affect their design & find out what are ways to avoid that from happening.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Through out the seven weeks of taking this course, I was assgined diffrent groups in which we created a variety of designs with a meaningful purpose. After each design project we were expected to write a medium post that captured our exprience, as well as how each phase of the design process (Ideation/brainstorming, Design, User testing, Refelection & Conclusion) impacted our final product. Each project had a purpose that met a unique goal
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Design for Others
+       - Technocopia is a makerspace located in Worcester. Our task as a team was to redesign the Technocopia webpage into a mobile page that targeted K-12 teachers. The goal of redesigning the page was to target a demographic that would capture the eyes of teachers into motivating them to be apart of the Technocopia makerspace community in Worcester.
 
-- Bulleted
-- List
+![Image](pic 1.png)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+       - Our overall design of the webpage worked to draw in users and understand the demographic we were targeting. Our font decisions, structure of the pages and navigation bar, and the color choices also worked as it prevented stress onto the users eyes.  In the some of the research work we did about design, “Best Practices In User Experience (UX) Design” tools about becoming our users. So throughout editing the prototype, we would:Listen to their needs( In this case we tracked what suggestions our testers had)Observe them in their natural habitat.( We took several videos and pictures to observe the testers whilst using the page)Create personas.(We had a target demographic which were teachers, and created a persona based on the likes and dislikes a teacher would have)
 
-[Link](url) and ![Image](src)
+## Design for Understanding
+
+
+
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+```
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bezasol/Design-Manifesto/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
