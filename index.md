@@ -12,21 +12,15 @@ Through out the seven weeks of taking this course, I was assgined diffrent group
 
 
 ## Design for Others
-       - Technocopia is a makerspace located in Worcester. Our task as a team was to redesign the Technocopia webpage into a mobile page that targeted K-12 teachers. The goal of redesigning the page was to target a demographic that would capture the eyes of teachers into motivating them to be apart of the Technocopia makerspace community in Worcester.
 
-![Image](pic 1.png)
+Technocopia is a makerspace located in Worcester. Our task as a team was to redesign the Technocopia webpage into a mobile page that targeted K-12 teachers. The goal of redesigning the page was to target a demographic that would capture the eyes of teachers into motivating them to be apart of the Technocopia makerspace community in Worcester.
 
+![Image](image.png)
 
-       - Our overall design of the webpage worked to draw in users and understand the demographic we were targeting. Our font decisions, structure of the pages and navigation bar, and the color choices also worked as it prevented stress onto the users eyes.  In the some of the research work we did about design, “Best Practices In User Experience (UX) Design” tools about becoming our users. So throughout editing the prototype, we would:Listen to their needs( In this case we tracked what suggestions our testers had)Observe them in their natural habitat.( We took several videos and pictures to observe the testers whilst using the page)Create personas.(We had a target demographic which were teachers, and created a persona based on the likes and dislikes a teacher would have)
+Our overall design of the webpage worked to draw in users and understand the demographic we were targeting. Our font decisions, structure of the pages and navigation bar, and the color choices also worked as it prevented stress onto the users eyes.  In the some of the research work we did about design, “Best Practices In User Experience (UX) Design” tools about becoming our users. So throughout editing the prototype, we would:Listen to their needs( In this case we tracked what suggestions our testers had)Observe them in their natural habitat.( We took several videos and pictures to observe the testers whilst using the page)Create personas.(We had a target demographic which were teachers, and created a persona based on the likes and dislikes a teacher would have)
 
 ## Design for Understanding
 
-
-
-```
-
-
-```
 
 
 
