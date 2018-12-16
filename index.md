@@ -20,7 +20,7 @@ Technocopia is a makerspace located in Worcester. Our task as a team was to rede
 This project was one of my favortie ones becasuse it had a wide range of opportunities to be creative with design. For this design in particualr I was able to learn how to use photoshop for the diffrent pages I was recreating. Most of our design process and user testing with the demo phones was helpuf in helping us meet the goal of the project.
 Some  techiniques I learnt from this design came from the following reading “Best Practices In User Experience (UX) Design” tools about becoming our users. So throughout editing the prototype, we would: Listen to their needs(In this case we tracked what suggestions our testers had) Observe them in their natural habitat. 
 
-Medium post: https://medium.com/@kendog95/design-for-others-df0d936dbd40
+Medium post: [Technocopia for K-12 Teachers](https://medium.com/@kendog95/design-for-others-df0d936dbd40)
 
 
 ## Design for Understanding
@@ -31,7 +31,7 @@ For this porject our team applied the 5 Design sheet approach for our planning p
 
 Reflecting on our design process and the tools our team used, it took a lot of time for our team to figure out which tools to use, from using Vega Lite we also realized there might be better ways to effectively represent the type of graphs we wanted, this meant using the platform like Inforgram, which I thought to be a creative tool.
 
-Medium post: https://medium.com/@bezawit.ayalew/design-for-understanding-f158f7615f15
+Medium post: [Understanding Nobel Prizes](https://medium.com/@bezawit.ayalew/design-for-understanding-f158f7615f15)
 
 ## Design for Tension
 
@@ -39,7 +39,7 @@ The goal of this project was to create a chat box that helps the user realize we
 
 The overall creation of a chat box was simple and to the point. The available tools were helpful in showing our team how we would like to implement our chat box. Inevitably, we wanted to create a chat box that didn’t limit us from further enhancements and therefore we implemented it from scratch. Our adjustments of the design of the chat box was driven by the feedback we received from the user. I particularly noticed the importance of user testing in this project as there were key points the users picked up on, that as the developers we did not notice.
 
-Medium post: https://medium.com/@bezawit.ayalew/design-for-tension-humanities-vs-sciences-789c74aacae8
+Medium post: [Chatting About Humanities and Scientists](https://medium.com/@bezawit.ayalew/design-for-tension-humanities-vs-sciences-789c74aacae8)
 
 ## Design for Wellbeing
 
@@ -47,14 +47,14 @@ Recognizing your emotions through facial recognition is a good way to detect if 
 
 The entire project was helpful in learning how to use Facial Recognition to promote mental health & wellbeing. Overall the most difficult part of the program other than the technical issues was trying to match a color to a specific mood, as people have different preferences on color and music choice. During the ideation phase of our design, our team kept circling around different music choices for the different emotions we were considering. At some points, we all had different preferences on the type of genre we would want to listen to for a given mood. This made me realize the importance of considering the fact that people have a different taste when it comes to music & color. This was significant to note during our design process as we had to be more selective when dealing with a more sensitive topic related to health & wellbeing.
 
-Medium post: https://medium.com/@bezawit.ayalew/design-for-wellbeing-f67ed57501a1
+Medium post: [Mood Ring](https://medium.com/@bezawit.ayalew/design-for-wellbeing-f67ed57501a1)
 
 ## Design for Another World
 
 The idea was to scare or instill fear in the user. While seemingly a horrible goal, studies show that being scared can be cathartic as there is a huge release of emotions. We decided to insert our concept instilling fear into an already established model from A-Frame. After scouring through, we determined the museum model best suited our concept. Our final idea was to create a haunted/corrupted museum that intended to scare. We made use of images, lighting, and music to accomplish this goal.
 In general, we believe that our final design was produced to meet the requirements of the project. We placed the user into another world, placing them into a haunted museum. Our initial design for the project was to mimic the style of game play like in “Slender Man”, where the user would walk around the museum with an uneasy sound always following them. From here, we were thinking of implementing click functions for the various displays in the museum. The user would have a goal to touch or observe every display within the museum, awarding the user points or giving them a goal to observe as many displays as possible. If the user observed a certain display, or if the user took too long to observe the displays, there would be a jump scare implemented to scare the user. However, with the lack of time and lack of knowledge of coding 3D objects in HTML, we were unable to implement these click functions. In addition, we received user testing feedback about the lack of collisions and floating dots for some of the displays in the museum. We were unaware of this fact but could implement these functions for the future. Overall, we believe that our concept of placing the user into a haunted, “Slender Man” type game to be good but were restricted with our lack of technical prowess of coding in HTML and javascript.
 
-Medium post: https://medium.com/@kendog95/design-for-another-world-af091294189d
+Medium post: [The Haunted Museum](https://medium.com/@kendog95/design-for-another-world-af091294189d)
 
 # My Refecltion & Conclusion 
 
