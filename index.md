@@ -1,5 +1,4 @@
- 
- 
+
 # About me
 
 My name is Bezawit, but most people call me Beza. I am a senior who is a Computer Science & Economics double major studying at Clark University. This website contains an oveview of the diffrent designs & work I did in the past seven weeks for my last CS course called Human Computer Interaction, which I took at Worcester Polytech Institution. 
@@ -57,6 +56,8 @@ The idea was to scare or instill fear in the user. While seemingly a horrible go
 In general, we believe that our final design was produced to meet the requirements of the project. We placed the user into another world, placing them into a haunted museum. Our initial design for the project was to mimic the style of game play like in “Slender Man”, where the user would walk around the museum with an uneasy sound always following them. From here, we were thinking of implementing click functions for the various displays in the museum. The user would have a goal to touch or observe every display within the museum, awarding the user points or giving them a goal to observe as many displays as possible. If the user observed a certain display, or if the user took too long to observe the displays, there would be a jump scare implemented to scare the user. However, with the lack of time and lack of knowledge of coding 3D objects in HTML, we were unable to implement these click functions. In addition, we received user testing feedback about the lack of collisions and floating dots for some of the displays in the museum. We were unaware of this fact but could implement these functions for the future. Overall, we believe that our concept of placing the user into a haunted, “Slender Man” type game to be good but were restricted with our lack of technical prowess of coding in HTML and javascript.
 
 Medium post: [The Haunted Museum](https://medium.com/@kendog95/design-for-another-world-af091294189d)
+
+<hr>
 
 # My Refecltion & Conclusion 
 
