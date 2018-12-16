@@ -13,7 +13,7 @@ Through out the seven weeks of taking this course, I was assgined diffrent group
 <hr>
 
 # Projects Overview
-## Design for Others
+### ~ Design for Others
 
 Technocopia is a makerspace located in Worcester. Our task as a team was to redesign the Technocopia webpage into a mobile page that targeted K-12 teachers. The goal of redesigning the page was to target a demographic that would capture the eyes of teachers into motivating them to be apart of the Technocopia makerspace community in Worcester.
 
@@ -25,7 +25,7 @@ Some  techiniques I learnt from this design came from the following reading “B
 Medium post: [Technocopia for K-12 Teachers](https://medium.com/@kendog95/design-for-others-df0d936dbd40)
 
 
-## Design for Understanding
+### ~ Design for Understanding
 
 For this project our team decided to represent data about Nobel Prizes in two ways, Clear Communication and Persuasive Story telling.
 
@@ -35,7 +35,7 @@ Reflecting on our design process and the tools our team used, it took a lot of t
 
 Medium post: [Understanding Nobel Prizes](https://medium.com/@bezawit.ayalew/design-for-understanding-f158f7615f15)
 
-## Design for Tension
+### ~ Design for Tension
 
 The goal of this project was to create a chat box that helps the user realize weather they fit more in the Humanities or the Sciences.
 
@@ -43,7 +43,7 @@ The overall creation of a chat box was simple and to the point. The available to
 
 Medium post: [Chatting About Humanities and Scientists](https://medium.com/@bezawit.ayalew/design-for-tension-humanities-vs-sciences-789c74aacae8)
 
-## Design for Wellbeing
+### ~ Design for Wellbeing
 
 Recognizing your emotions through facial recognition is a good way to detect if you are not having a good day. Using this idea our team created a website that detects 7 low energy emotions. If it detects one of the low emotions it displays a color & plays a song to promote wellbeing. The technology that we were using was Affectiva, which is a set of libraries that identifies user emotions by utilizing a webcam (for visual input).
 
@@ -51,7 +51,7 @@ The entire project was helpful in learning how to use Facial Recognition to prom
 
 Medium post: [Mood Ring](https://medium.com/@bezawit.ayalew/design-for-wellbeing-f67ed57501a1)
 
-## Design for Another World
+### ~ Design for Another World
 
 The idea was to scare or instill fear in the user. While seemingly a horrible goal, studies show that being scared can be cathartic as there is a huge release of emotions. We decided to insert our concept instilling fear into an already established model from A-Frame. After scouring through, we determined the museum model best suited our concept. Our final idea was to create a haunted/corrupted museum that intended to scare. We made use of images, lighting, and music to accomplish this goal.
 In general, we believe that our final design was produced to meet the requirements of the project. We placed the user into another world, placing them into a haunted museum. Our initial design for the project was to mimic the style of game play like in “Slender Man”, where the user would walk around the museum with an uneasy sound always following them. From here, we were thinking of implementing click functions for the various displays in the museum. The user would have a goal to touch or observe every display within the museum, awarding the user points or giving them a goal to observe as many displays as possible. If the user observed a certain display, or if the user took too long to observe the displays, there would be a jump scare implemented to scare the user. However, with the lack of time and lack of knowledge of coding 3D objects in HTML, we were unable to implement these click functions. In addition, we received user testing feedback about the lack of collisions and floating dots for some of the displays in the museum. We were unaware of this fact but could implement these functions for the future. Overall, we believe that our concept of placing the user into a haunted, “Slender Man” type game to be good but were restricted with our lack of technical prowess of coding in HTML and javascript.
