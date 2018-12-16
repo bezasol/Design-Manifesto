@@ -8,10 +8,12 @@ My name is Bezawit, but most people call me Beza. I am a senior who is a Compute
 
 "Beauty is in the eye of the beholder". This is one of my favorite qoutes, in which I feel best depicts my views about design.Literal meaning - the perception of beauty is subjective. I stongly belive that design is a visual representation & product of ones preception of what they believe to be right. For the longest time I have belived that design is a choice that people make based on a bias they have. The Human Computer Interaction  course was a great way to help me inverstigate to what extent the bias of designers can affect their design & find out what are ways to avoid that from happening.
 
-Through out the seven weeks of taking this course, I was assgined diffrent groups in which we created a variety of designs with a meaningful purpose. After each design project we were expected to write a medium post that captured our exprience, as well as how each phase of the design process (Ideation/brainstorming, Design, User testing, Refelection & Conclusion) impacted our final product. Each project had a purpose that met a unique goal
+Through out the seven weeks of taking this course, I was assgined diffrent groups in which we created a variety of designs with a meaningful purpose. After each design project we were expected to write a medium post that captured our exprience, as well as how each phase of the design process (Ideation/brainstorming, Design, User testing, Refelection & Conclusion) impacted our final product. Each project had a purpose that met a unique goal.
 
+<hr>
 
-# Design for Others
+# Projects Overview
+## Design for Others
 
 Technocopia is a makerspace located in Worcester. Our task as a team was to redesign the Technocopia webpage into a mobile page that targeted K-12 teachers. The goal of redesigning the page was to target a demographic that would capture the eyes of teachers into motivating them to be apart of the Technocopia makerspace community in Worcester.
 
